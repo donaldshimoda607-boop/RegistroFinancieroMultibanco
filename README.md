@@ -1,9 +1,13 @@
+[README.md](https://github.com/user-attachments/files/34281416/README.md)
+
+
+
 # Registro Financiero Multibanco
 
 **Tus gastos e ingresos ordenados automáticamente, a partir de los avisos que tu banco te envía por Gmail.**
 Para bancos de **Chile**: **MachBank**, **BancoEstado** y **Santander**.
 
-### [⬇️ Descargar para Windows](https://github.com/donaldshimoda607-boop/RegistroFinancieroMultibanco/releases/latest/download/RegistroFinancieroMultibanco.exe)
+### [⬇️ Descargar para Windows](https://github.com/donaldshimoda607-boop/RegistroFinancieroMultibanco/releases/latest)
 
 Prueba gratis · Windows 10 u 11 · un solo archivo, sin instalación
 
@@ -32,7 +36,7 @@ Cada vez que compras o transfieres, tu banco te manda un correo. El programa lee
 
 ## Cómo empezar
 
-1. **Descarga** [`RegistroFinancieroMultibanco.exe`](https://github.com/donaldshimoda607-boop/RegistroFinancieroMultibanco/releases/latest/download/RegistroFinancieroMultibanco.exe) y guárdalo en una carpeta propia, por ejemplo `Documentos\Registro Financiero`. El programa guarda tus datos en esa misma carpeta.
+1. **Descarga** `RegistroFinancieroMultibanco.exe` desde la sección **[Releases](https://github.com/donaldshimoda607-boop/RegistroFinancieroMultibanco/releases/latest)** (en «Assets») y guárdalo en una carpeta propia, por ejemplo `Documentos\Registro Financiero`. El programa guarda tus datos en esa misma carpeta.
 2. **Ábrelo.** Si Windows muestra «Windows protegió su PC», presiona **Más información** y luego **Ejecutar de todas formas**. Aparece porque el programa todavía no tiene firma digital.
 3. **Pide tu clave gratis** con el botón **✉️ Pedir mi clave gratis**: se abre Gmail con un correo listo para el autor. Indica tu nombre y el Gmail donde te llegan los avisos del banco, y recibirás tu clave por correo.
 4. **Pega la clave**, configura tu Gmail y presiona **🚀 Extraer todo**.
@@ -77,3 +81,4 @@ Cada vez que compras o transfieres, tu banco te manda un correo. El programa lee
 ---
 
 <sub>© 2026 MagoLabSoftware. Todos los derechos reservados. Este repositorio publica solo el programa para Windows; el código fuente no es público.</sub>
+
